@@ -1,0 +1,4 @@
+*.db
+*.pyc
+server/instance
+server/__pycache__

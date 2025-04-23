@@ -1,0 +1,42 @@
+.body-class {
+  background-color: #121212;
+  color: whitesmoke;
+}
+
+.avg {
+  justify-self: center;
+  margin: 1rem;
+  padding: 0.5vi;
+  background-color: #3f3f3f;
+  border-radius: 0.4rem;
+  font-weight: 400;
+}
+
+.button-class {
+  background-color: #70b668;
+  border: none;
+}
+
+.button-class:hover {
+  background-color: #59ac53;
+}
+
+.student-list {
+  background-color: #282828;
+  border: none;
+  color: whitesmoke;
+}
+
+.input-class {
+  background-color: #3f3f3f;
+  border: none;
+}
+
+.input-class::placeholder {
+  color: whitesmoke;
+}
+
+.edit-form {
+  width: 6%;
+  margin-inline-start: 60%;
+}
